@@ -4,9 +4,9 @@
 🛖 based in Freiburg im Breisgau in Germany \
 💻 working as a Frontend Deveolper\
 🎨 like to design posters for festivals or other GFX-projects \
+🚲 loving to spend time on one of my bikes 
 💡 doing stage-lighting at concerts and festivals with <a href="https://photonenkollektiv.de">Photonenkollektiv</a> \
 🎻 playing the double bass at <a href="https://themoonshinepack.com">the moonshine pack</a> \ 
-🚲 loving to spend time on one of my bikes 
 
 🧠 learned a lot at Neue Fische Bootcamp in 2021 \
 🔭 currently working on a nice Fullstack-Solution for a clean CMS for smaller Webprojects that are not Wordpress-Based
