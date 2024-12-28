@@ -5,7 +5,7 @@
 💻 working as a Frontend Deveolper\
 🎨 like to design posters for festivals or other GFX-projects \
 💡 doing stage-lighting at concerts and festivals with <a href="https://photonenkollektiv.de">Photonenkollektiv</a>\
-🎻 playing the double bass at <a href="https://themoonshinepack.com">the moonshine pack</a>\ 
+🎻 playing the double bass at <a href="https://themoonshinepack.com">the moonshine pack</a> \ 
 🚲 loving to spend time on one of my bikes 
 
 🧠 learned a lot at Neue Fische Bootcamp in 2021\
