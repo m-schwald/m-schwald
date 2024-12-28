@@ -18,7 +18,7 @@
  <a href="https://roads.porsche.com">Porsche Roads Website & Webapp</a> 
 (Frontend on Website and Webapp) 
 
- <a href="https://euro.com">Porsche Roads Website & App</a>
+ <a href="https://www.easy-rent.eu">EasyRent</a>
  (Frontend Website) 
 
 ### private projects 
