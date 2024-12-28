@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, my Name is Markus but most people know me as Maize 👋
+### My prefered pronouns are he/him.
 
-<!--
-**m-schwald/m-schwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛖 based in Freiburg im Breisgau in Germany
+💻 working as a Frontend Deveolper
+🎨 like to get creative in Photoshop
+💡 doing stage-lighting at concerts and festivals
+🎻 playing the double bass
+🚲 loving to spend time on one of my bikes
 
-Here are some ideas to get you started:
+🧠 learned a lot at Neue Fische Bootcamp in 2021.
+🔭 currently working on a nice Fullstack-Solution for a clean CMS for smaller Webprojects that are not Wordpress-Based.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧰 Toolbox
+
